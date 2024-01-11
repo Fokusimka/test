@@ -1,0 +1,20 @@
+.postRow {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    align-items: center;
+}
+
+.postRowTitle {
+    width: 30%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.cuted {
+    width: 60%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

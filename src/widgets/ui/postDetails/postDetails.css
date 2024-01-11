@@ -1,0 +1,9 @@
+.postDetails{
+    display: flex;
+    flex-direction: column;
+    padding: 20px
+}
+
+.postDetailsBack {
+    align-self: flex-end;
+}

@@ -1,0 +1,33 @@
+.detailsCard{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    & h1 {
+        text-align: center;
+    }
+    & h2 {
+        margin-bottom: 0;
+    }
+}
+
+.detailsCardContent {
+    display: flex;
+    gap: 10px
+}
+
+.detailsCardUser {
+    display: flex;
+    justify-content: space-between;
+    color: grey
+}
+
+.detailsCardUserDate {
+    display: flex;
+    flex-direction: column;
+}
+
+.detailsCardNotFound {
+    display: flex;
+    justify-content: center;
+}

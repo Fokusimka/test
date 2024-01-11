@@ -1,0 +1,13 @@
+.postsList {
+    padding: 20px
+}
+
+.postDetailsLoading {
+    display: flex;
+    justify-content: center;
+}
+
+.postsListLoading {
+    display: flex;
+    justify-content: center;
+}
